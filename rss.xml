@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thurles Squash Website]]></title>
+        <description><![CDATA[Thurles Squash Website]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 16:31:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/734e1a39-e0da-4b52-bdf7-cb31eff93c31.jpg" alt="" title="">]]></description>
+            <link>undefinedcea1f082-2574-4ace-a9d7-7c01677409b3/index.html</link>
+            <guid isPermaLink="false">cea1f082-2574-4ace-a9d7-7c01677409b3</guid>
+            <pubDate>Sat, 30 Jan 2016 16:31:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
