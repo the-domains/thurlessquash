@@ -1,6 +1,6 @@
 name: Thurles Squash Website
 favicon: null
-layout_spectrum: 0.39086983958259225
+layout_spectrum: 0.56796
 typography_spectrum: 0.46229500393383205
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.35641598515212536
-  lightness: 0.8964421825949103
-  saturation: 0.7218821526039392
-  rhythmicContrast: 0.12758886814117432
+  brandStrength: 0.875
+  lightness: 0.9375
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
